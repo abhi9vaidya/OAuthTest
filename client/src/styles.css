@@ -1,0 +1,7 @@
+﻿body, html, #root { height: 100%; margin: 0; font-family: Arial, Helvetica, sans-serif; }
+
+.root { display: flex; align-items: center; justify-content: center; height: 100%; }
+.center { text-align: center; }
+.login-btn { background-color: #4285F4; color: white; border: none; padding: 12px 20px; font-size: 16px; border-radius: 4px; cursor: pointer; }
+.logout-btn { background-color: #e0e0e0; border: none; padding: 10px 16px; font-size: 14px; border-radius: 4px; cursor: pointer; }
+.avatar { width: 96px; height: 96px; border-radius: 50%; display: block; margin: 8px auto; }
